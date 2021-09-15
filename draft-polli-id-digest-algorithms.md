@@ -41,7 +41,7 @@ Discussion of this draft takes place on the HTTP working group mailing list
 <https://lists.w3.org/Archives/Public/ietf-http-wg/>.
 
 The source code and issues list for this draft can be found at
-<https://github.com/ioggstream/draft-polli-Retry-Scope>.
+<https://github.com/ioggstream/draft-polli-id-digest-algorithms>.
 
 
 --- middle
@@ -197,5 +197,3 @@ print("id-crc32c digest value for a br-coded representation: ",
 {: numbered="false"}
 
 RFC EDITOR PLEASE DELETE THIS SECTION.
-
-
