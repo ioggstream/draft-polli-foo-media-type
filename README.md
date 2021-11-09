@@ -1,4 +1,4 @@
-# Retry-After scope
+# id- digest algorithms
 
 This is the working area for the individual Internet-Draft, "Retry-After scope".
 
