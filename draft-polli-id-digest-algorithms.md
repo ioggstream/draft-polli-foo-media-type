@@ -210,5 +210,6 @@ and the subsequent discussion here https://github.com/httpwg/http-extensions/iss
 _RFC Editor: Please remove this section before publication._
 
 ## Since draft-polli-id-digest-algorithms-00
+{: numbered="false"}
 
 * Include id-sha-256 and id-sha-512.
