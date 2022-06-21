@@ -2,7 +2,7 @@
 
 
 
-HTTPAPI                                                         R. Polli
+Network Working Group                                           R. Polli
 Internet-Draft     Digital Transformation Department, Italian Government
 Intended status: Informational                              21 June 2022
 Expires: 23 December 2022
@@ -16,18 +16,18 @@ Abstract
    This document registers the application/foo media type and the +foo
    structured syntax suffix on the IANA Media Types registry.
 
-Note to Readers
+About This Document
 
-   _RFC EDITOR: please remove this section before publication_
+   This note is to be removed before publishing as an RFC.
 
-   Discussion of this draft takes place on the HTTP APIs working group
-   mailing list (httpapi@ietf.org), which is archived at
-   https://mailarchive.ietf.org/arch/browse/httpapi/
-   (https://mailarchive.ietf.org/arch/browse/httpapi/).
+   Status information for this document may be found at
+   https://datatracker.ietf.org/doc/draft-polli-foo-media-type/.
 
-   The source code and issues list for this draft can be found at
-   https://github.com/ietf-wg-httpapi/mediatypes (https://github.com/
-   ietf-wg-httpapi/mediatypes).
+   information can be found at https://github.com/ioggstream/draft-
+   polli-foo-media-type.
+
+   Source for this draft and an issue tracker can be found at
+   https://github.com/ioggstream/draft-polli-foo-media-type/issues.
 
 Status of This Memo
 
@@ -335,12 +335,6 @@ Table of Contents
               DOI 10.17487/RFC8259, December 2017,
               <https://www.rfc-editor.org/rfc/rfc8259>.
 
-   [JSON-POINTER]
-              Bryan, P., Ed., Zyp, K., and M. Nottingham, Ed.,
-              "JavaScript Object Notation (JSON) Pointer", RFC 6901,
-              DOI 10.17487/RFC6901, April 2013,
-              <https://www.rfc-editor.org/rfc/rfc6901>.
-
    [MEDIATYPE]
               Freed, N., Klensin, J., and T. Hansen, "Media Type
               Specifications and Registration Procedures", BCP 13,
@@ -391,6 +385,12 @@ Table of Contents
               Draft, draft-ietf-jsonpath-base-05, 25 April 2022,
               <https://datatracker.ietf.org/doc/html/draft-ietf-
               jsonpath-base-05>.
+
+   [JSON-POINTER]
+              Bryan, P., Ed., Zyp, K., and M. Nottingham, Ed.,
+              "JavaScript Object Notation (JSON) Pointer", RFC 6901,
+              DOI 10.17487/RFC6901, April 2013,
+              <https://www.rfc-editor.org/rfc/rfc6901>.
 
 Appendix A.  Examples
 
